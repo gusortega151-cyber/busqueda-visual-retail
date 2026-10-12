@@ -1,0 +1,9 @@
+transformers
+datasets
+evaluate
+huggingface_hub
+torch
+torchvision
+Pillow
+pandas
+scikit-learn
